@@ -1,1 +1,1 @@
-# DataAnalyticsPracticalTechnique
+# DataAnalysisPracticalTechnique
